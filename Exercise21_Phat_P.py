@@ -2,11 +2,6 @@
 
 from tkinter import *
 
-from numpy import double
-
-def say_hellO():
-    print("Hello World")
-
 main_win = Tk()
 
 def left_click(event):
